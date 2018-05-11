@@ -3,8 +3,8 @@ import random
 import sys
 
 words = [
-    'apple',
-    'banana',
+    'applee',
+    'bananaa',
     'orange',
     'coconut',
     'strawberry',
